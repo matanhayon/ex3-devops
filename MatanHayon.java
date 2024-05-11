@@ -4,7 +4,7 @@ public class MatanHayon
     {
         for(int i =1;i<=10; i++)
         {
-            System.out.println("Matan Hayon ... " + i);
+            System.out.println("Changes of step 6 ... " + i);
         }
     }
 }
